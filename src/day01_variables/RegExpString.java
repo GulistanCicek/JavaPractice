@@ -1,4 +1,4 @@
-package _01_variables;
+package day01_variables;
 
 public class RegExpString {
 
