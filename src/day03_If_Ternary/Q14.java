@@ -1,8 +1,6 @@
-package day3_If_Ternary;
+package day03_If_Ternary;
 
-import java.util.Scanner;
-
-public class Q14 {  
+public class Q14 {
 	/* Günün sorusu: if statement
     katsayýlarý verilen 2 bilinmeyenli denklemin kökleriniz bulunuz.
 

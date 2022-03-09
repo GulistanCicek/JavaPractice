@@ -1,4 +1,4 @@
-package day3_If_Ternary;
+package day03_If_Ternary;
 
 import java.util.Scanner;
 

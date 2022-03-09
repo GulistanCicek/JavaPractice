@@ -1,6 +1,4 @@
-package day3_If_Ternary;
-
-import java.util.Scanner;
+package day03_If_Ternary;
 
 public class Q10 {
     public static void main(String[] args) {
